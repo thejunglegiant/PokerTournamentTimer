@@ -1,0 +1,23 @@
+<resources>
+    <!-- Main Screen -->
+    <string name="ante">ANTE</string>
+    <string name="round_count">ROUND / %1$s</string>
+    <string name="reset_round">Reset Round</string>
+    <string name="small_blind">SMALL BLIND</string>
+    <string name="big_blind">BIG BLIND</string>
+
+    <!-- Edit Screen -->
+    <string name="edit_screen_title">Edit Config</string>
+    <string name="edit_screen_see_game_table">See Game Table</string>
+    <string name="edit_screen_game_caption">GAME</string>
+    <string name="edit_screen_config_name">Config Name</string>
+    <string name="edit_screen_players">Players</string>
+    <string name="edit_screen_round_minutes">Round Minutes</string>
+    <string name="edit_screen_game_length">Game Length</string>
+    <string name="edit_screen_bank_caption">BANK</string>
+    <string name="edit_screen_rebuy">Rebuy</string>
+    <string name="edit_screen_starting_stack">Starting Stack</string>
+    <string name="edit_screen_smallest_chip">Smallest Chip</string>
+    <string name="edit_screen_ante">Ante</string>
+    <string name="edit_screen_save">Save</string>
+</resources>
